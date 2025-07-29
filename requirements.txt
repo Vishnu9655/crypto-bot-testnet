@@ -3,3 +3,4 @@ pandas
 pandas-ta
 schedule
 python-dotenv
+numpy==1.24.4
